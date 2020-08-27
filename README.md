@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋, Am Saravanan Kalimuthu
+I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
-<!--
-**sarvarunajvm/sarvarunajvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a list of things I currently keep myself busy with:
 
-Here are some ideas to get you started:
+- 👩🏻‍💻 Working as a full stack developer over at **[AssetPulse](https://www.assetpulse.com/)** using [Spring Boot](https://spring.io/) and [Vue.js](https://vuejs.org/)
+- ☀️ Maintaining **[Gem-Of-config](httpshttps://github.com/sarvarunajvm/gem-of-config)**, and **[Gem-Of-config](httpshttps://github.com/sarvarunajvm/gem-of-config)** to speed up the project creation)
+- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/sarvarunajvm)**.
+- 🛠 Getting myself into Devops. Trying out [Azure Devops](https://dev.azure.com/sarvaruna/) and [Jenkins](https://www.jenkins.io/) in my spare time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ![My github stats](https://github-readme-stats.vercel.app/api?username=sarvarunajvm&show_icons=true&theme=synthwave)
+   
+   Take a 👀 at my [PortFolio](https://saravarunajvm.netlify.app/)
