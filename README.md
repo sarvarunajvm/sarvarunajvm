@@ -1,4 +1,5 @@
-# 👋, Am Saravanan Kalimuthu
+# 👋, Am Saravanan Kalimuthu 
+
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
 Here's a list of things I currently keep myself busy with:
@@ -17,6 +18,9 @@ Here's a list of things I currently keep myself busy with:
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=f9aa33)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=f9aa33)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=f9aa33)
+
+## Hits
+[![HitCount](http://hits.dwyl.com/sarvarunajvm/https://githubcom/sarvarunajvm/sarvarunajvm.svg)](http://hits.dwyl.com/sarvarunajvm/https://githubcom/sarvarunajvm/sarvarunajvm)
 
    ![My github stats](https://github-readme-stats.vercel.app/api?username=sarvarunajvm&show_icons=true&theme=synthwave)
    
