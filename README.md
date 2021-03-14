@@ -23,14 +23,14 @@ Here's a list of things I currently keep myself busy with:
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/JAVA-F80000.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
 ![Hibernate](https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white)&nbsp;\
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Vue](https://img.shields.io/badge/VUE-323330.svg?&style=flat&logo=vuejs&logoColor=%23F7DF1E)&nbsp;
-![Vuetify](https://img.shields.io/badge/VUETIFY-323330.svg?&style=flat&logo=vuetify&logoColor=%23F7DF1E)&nbsp;
+![Vue](https://img.shields.io/badge/VUE-008000.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
+![Vuetify](https://img.shields.io/badge/VUETIFY-2496ED.svg?&style=flat&logo=vuetify&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
