@@ -5,7 +5,7 @@ I like experimenting with new technologies, building small projects, and occassi
 Here's a list of things I currently keep myself busy with:
 
 - 👩🏻‍💻 Working as a full stack developer over at **[AssetPulse](https://www.assetpulse.com/)** using [Spring Boot](https://spring.io/) and [Vue.js](https://vuejs.org/)
-- ☀️ Maintaining **[Gem-Of-Config](httpshttps://github.com/sarvarunajvm/gem-of-config)**, and **[Gem-Of-Vue](https://github.com/sarvarunajvm/gem-of-view)** to speed up the project creation
+- ☀️ Maintaining **[Gem-Of-Config](https://github.com/sarvarunajvm/gem-of-config)**, and **[Gem-Of-Vue](https://github.com/sarvarunajvm/gem-of-view)** to speed up the project creation
 - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/sarvarunajvm)**.
 - 🛠 Getting myself into Devops. Trying out [Travis_CI](https://travis-ci.com/dashboard) and [Jenkins](https://www.jenkins.io/) in my spare time.
 
