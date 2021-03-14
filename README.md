@@ -10,10 +10,12 @@ Here's a list of things I currently keep myself busy with:
 - 🛠 Getting myself into Devops. Trying out [Travis_CI](https://travis-ci.com/dashboard) and [Jenkins](https://www.jenkins.io/) in my spare time.
 
 <p align="center">
-  <a href="mailto:sarvaruna@outlook.com?subject=Saravanan%20Kalimuthu"><img src="https://img.shields.io/badge/Email-%33d42443.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sarvaruna@outlook.com?subject=Saravanan%20Kalimuthu"><img src="https://img.shields.io/badge/Email-%234CA64C.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/SarVaruna/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/nerdy_afa_beardy/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/saravanan-kalimuthu-01a0a9113"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+    <a href="https://twitter.com/persianandro"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
