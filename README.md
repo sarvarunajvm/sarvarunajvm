@@ -25,3 +25,8 @@ Here's a list of things I currently keep myself busy with:
    ![My github stats](https://github-readme-stats.vercel.app/api?username=sarvarunajvm&show_icons=true&theme=synthwave)
    
    Take a 👀 at my [PortFolio](https://saravarunajvm.netlify.app/)
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/sarvarunajvm/sarvarunajvm?color=black&logo=github" />
+</p>
