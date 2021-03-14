@@ -83,7 +83,11 @@ Here's a list of things I currently keep myself busy with:
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>  
+<img src="https://badges.pufler.dev/years/sarvarunajvm" />
+<img src="https://badges.pufler.dev/repos/sarvarunajvm" />
+<img src="https://badges.pufler.dev/gists/sarvarunajvm" />
+<img src="https://badges.pufler.dev/commits/yearly/sarvarunajvm" />
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvarunajvm&hide_border=true&theme=nightowl" />
@@ -102,11 +106,8 @@ Here's a list of things I currently keep myself busy with:
 <hr/>
 <hr/>   
 
+
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=flat-square&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/sarvarunajvm/sarvarunajvm" />
-<img src="https://badges.pufler.dev/years/sarvarunajvm" />
-   <img src="https://badges.pufler.dev/repos/sarvarunajvm" />
-   <img src="https://badges.pufler.dev/gists/sarvarunajvm" />
-   <img src="https://badges.pufler.dev/commits/yearly/sarvarunajvm" />
 </p>
