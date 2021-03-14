@@ -27,6 +27,7 @@ Here's a list of things I currently keep myself busy with:
    Take a 👀 at my [PortFolio](https://saravarunajvm.netlify.app/)
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=flat-square&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/sarvarunajvm/sarvarunajvm?color=black&logo=github" />
+<img src="https://badges.pufler.dev/years/sarvarunajvm?color=black&logo=github" />
 </p>
