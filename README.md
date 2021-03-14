@@ -29,6 +29,8 @@ Here's a list of things I currently keep myself busy with:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Vue](https://img.shields.io/badge/VUE-323330.svg?&style=flat&logo=vuejs&logoColor=%23F7DF1E)&nbsp;
+![Vuetify](https://img.shields.io/badge/VUETIFY-323330.svg?&style=flat&logo=vuetify&logoColor=%23F7DF1E)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
@@ -39,7 +41,6 @@ Here's a list of things I currently keep myself busy with:
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)\
 ![Gradle](https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle)&nbsp;
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
-![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;\
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
