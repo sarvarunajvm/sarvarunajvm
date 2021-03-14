@@ -50,7 +50,7 @@ Here's a list of things I currently keep myself busy with:
 ![DDD](https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 ![TDD](https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-
+</details>
 
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
@@ -92,16 +92,13 @@ Here's a list of things I currently keep myself busy with:
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sarvarunajvm&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarunajvm&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
-
-
-   ![My github stats](https://github-readme-stats.vercel.app/api?username=sarvarunajvm&show_icons=true&theme=synthwave)
    
    
 <hr/>
 <hr/>
-<hr/>
+<p align="center">
    Take a 👀 at my [PortFolio](https://saravarunajvm.netlify.app/)
-<hr/>
+</p> 
 <hr/>
 <hr/>   
 
