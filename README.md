@@ -10,7 +10,7 @@ Here's a list of things I currently keep myself busy with:
 - 🛠 Getting myself into Devops. Trying out [Travis_CI](https://travis-ci.com/dashboard) and [Jenkins](https://www.jenkins.io/) in my spare time.
 
 <p align="center">
-  <a href="mailto:sarvaruna@outlook.com?subject=Saravanan%20Kalimuthu"><img src="https://img.shields.io/badge/mail-%23dc2743.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sarvaruna@outlook.com?subject=Saravanan%20Kalimuthu"><img src="https://img.shields.io/badge/mail-%33d42443.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/SarVaruna/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/nerdy_afa_beardy/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/saravanan-kalimuthu-01a0a9113"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -94,10 +94,10 @@ Here's a list of things I currently keep myself busy with:
     </p>
     <br/>
   <p align="right">
-<img src="https://badges.pufler.dev/years/sarvarunajvm" />
-<img src="https://badges.pufler.dev/repos/sarvarunajvm" />
-<img src="https://badges.pufler.dev/gists/sarvarunajvm" />
-<img src="https://badges.pufler.dev/commits/yearly/sarvarunajvm" />
+<img src="https://badges.pufler.dev/years/sarvarunajvm?style=flat-square" />
+<img src="https://badges.pufler.dev/repos/sarvarunajvm?style=flat-square" />
+<img src="https://badges.pufler.dev/gists/sarvarunajvm?style=flat-square" />
+<img src="https://badges.pufler.dev/commits/yearly/sarvarunajvm?style=flat-square" />
 </p>
 </details>
    
@@ -105,7 +105,9 @@ Here's a list of things I currently keep myself busy with:
 <hr/>
 <hr/>
 <p align="center">
-   Take a 👀 at my **[PortFolio](https://saravarunajvm.netlify.app/)**
+   Take a 👀 at my 
+    <a href="https://saravarunajvm.netlify.app/"><img src="https://img.shields.io/badge/portfolio-%238577B5.svg?&style=for-the-badge&logo=portfolio&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 </p> 
 <hr/>
 <hr/>   
@@ -113,5 +115,5 @@ Here's a list of things I currently keep myself busy with:
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=flat-square&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/sarvarunajvm/sarvarunajvm" />
+<img src="https://badges.pufler.dev/visits/sarvarunajvm/sarvarunajvm?style=flat-square" />
 </p>
