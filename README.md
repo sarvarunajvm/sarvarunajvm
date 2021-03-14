@@ -116,7 +116,7 @@ Here's a list of things I currently keep myself busy with:
 <p align="center">
      Take a 👀 at my 
   <br/>
-    <a href="https://saravarunajvm.netlify.app/"><img src="https://img.shields.io/badge/portfolio-%238577B5.svg?&style=for-the-badge&logo=devices&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://saravarunajvm.netlify.app/"><img src="https://img.shields.io/badge/portfolio-%23CD00CD.svg?&style=for-the-badge&logo=website&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p> 
 <hr/>
