@@ -84,10 +84,7 @@ Here's a list of things I currently keep myself busy with:
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>  
-<img src="https://badges.pufler.dev/years/sarvarunajvm" />
-<img src="https://badges.pufler.dev/repos/sarvarunajvm" />
-<img src="https://badges.pufler.dev/gists/sarvarunajvm" />
-<img src="https://badges.pufler.dev/commits/yearly/sarvarunajvm" />
+
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvarunajvm&hide_border=true&theme=nightowl" />
@@ -95,13 +92,20 @@ Here's a list of things I currently keep myself busy with:
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sarvarunajvm&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarunajvm&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
+    <br/>
+  <p align="right">
+<img src="https://badges.pufler.dev/years/sarvarunajvm" />
+<img src="https://badges.pufler.dev/repos/sarvarunajvm" />
+<img src="https://badges.pufler.dev/gists/sarvarunajvm" />
+<img src="https://badges.pufler.dev/commits/yearly/sarvarunajvm" />
+</p>
 </details>
    
    
 <hr/>
 <hr/>
 <p align="center">
-   Take a 👀 at my [PortFolio](https://saravarunajvm.netlify.app/)
+   Take a 👀 at my **[PortFolio](https://saravarunajvm.netlify.app/)**
 </p> 
 <hr/>
 <hr/>   
