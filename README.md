@@ -28,6 +28,9 @@ Here's a list of things I currently keep myself busy with:
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=flat-square&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/sarvarunajvm/sarvarunajvm?color=black&logo=github" />
-<img src="https://badges.pufler.dev/years/sarvarunajvm?color=black&logo=github" />
+<img src="https://badges.pufler.dev/visits/sarvarunajvm/sarvarunajvm" />
+<img src="https://badges.pufler.dev/years/sarvarunajvm" />
+   <img src="https://badges.pufler.dev/repos/sarvarunajvm" />
+   <img src="https://badges.pufler.dev/gists/sarvarunajvm" />
+   <img src="https://badges.pufler.dev/commits/yearly/sarvarunajvm" />
 </p>
