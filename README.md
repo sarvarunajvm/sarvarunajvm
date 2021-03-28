@@ -105,7 +105,7 @@ Here's a list of things I currently keep myself busy with:
 <img src="https://badges.pufler.dev/years/sarvarunajvm?style=flat-square" />
 <img src="https://badges.pufler.dev/repos/sarvarunajvm?style=flat-square" />
 <img src="https://badges.pufler.dev/gists/sarvarunajvm?style=flat-square" />
-<img src="https://badges.pufler.dev/commits/yearly/sarvarunajvm?style=flat-square" />
+<img src="https://badges.pufler.dev/commits/monthly/sarvarunajvm?style=flat-square" />
 </p>
 </details>
    
