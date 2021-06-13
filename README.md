@@ -7,7 +7,7 @@ Here's a list of things I currently keep myself busy with:
 - 👩🏻‍💻 Working as a Software Engineer 2 over at **[PayPal](https://www.paypal.com/us/home)** using [Spring Boot](https://spring.io/).
 - ☀️ Maintaining **[Gem-Of-Config](https://github.com/sarvarunajvm/gem-of-config)**, and **[Gem-Of-Vue](https://github.com/sarvarunajvm/gem-of-view)** to speed up the project creation
 - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/sarvarunajvm)**.
-- 🛠 Getting myself into Devops. Trying out [Travis_CI](https://travis-ci.com/dashboard) and [Jenkins](https://www.jenkins.io/) in my spare time.
+- 🛠 Getting myself into Devops. Trying out [Github Actions](https://github.com/features/actions) and [Jenkins](https://www.jenkins.io/) in my spare time.
 
 <p align="center">
   <a href="mailto:sarvaruna@outlook.com?subject=Saravanan%20Kalimuthu"><img src="https://img.shields.io/badge/Email-%234CA64C.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
