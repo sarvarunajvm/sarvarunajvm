@@ -4,7 +4,7 @@ I like experimenting with new technologies, building small projects, and occassi
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a Software Engineer 2 over at **[PayPal](https://www.paypal.com/us/home)** using [Spring Boot](https://spring.io/).
+- 👩🏻‍💻 Working as a full time Senior Software Engineer.
 - ☀️ Maintaining **[Gem-Of-Config](https://github.com/sarvarunajvm/gem-of-config)**, and **[Gem-Of-Vue](https://github.com/sarvarunajvm/gem-of-view)** to speed up the project creation
 - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/sarvarunajvm)**.
 - 🛠 Getting myself into Devops. Trying out [Github Actions](https://github.com/features/actions) and [Jenkins](https://www.jenkins.io/) in my spare time.
