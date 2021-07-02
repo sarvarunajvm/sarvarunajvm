@@ -59,7 +59,7 @@ Here's a list of things I currently keep myself busy with:
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
+![GoLang](https://img.shields.io/badge/GO-0095D5.svg?&style=flat&logo=go&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
