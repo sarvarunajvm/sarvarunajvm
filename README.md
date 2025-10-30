@@ -37,22 +37,17 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-brightgreen?style=for-the-badge" alt="Focus"/>
 </p>
 
-<!-- Spotify Now Playing -->
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</div>
-
-<div align="center">
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</div>
-
 </div>
 
 ---
 
 ## 🎯 About Me
+
+<div align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
+
+<br/>
 
 ```typescript
 class SeniorSoftwareEngineer {
