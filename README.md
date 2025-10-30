@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🚀+Building+Scalable+Cloud+Solutions;🌟+Open+Source+Contributor+%26+Maintainer;💡+System+Architecture+%26+DevOps+Expert;🎯+Clean+Code+%7C+Best+Practices+%7C+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=Building+Scalable+Cloud+Solutions;Open+Source+Contributor+and+Maintainer;System+Architecture+and+DevOps+Expert;Clean+Code+Best+Practices+Innovation" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -270,7 +270,7 @@ console.log(saravanan.skills.languages); // ["Java", "JavaScript", "TypeScript",
 <!-- GitHub Stats with Custom Theme -->
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sarvarunajvm&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=📈%20GitHub%20Statistics" alt="GitHub Stats" />
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvarunajvm&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="Streak Stats" />
+<img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=sarvarunajvm&theme=dark&hide_border=true&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff&sideNums=00b3ff&sideLabels=c9d1d9&dates=c9d1d9" alt="Streak Stats" />
 
 <!-- Language Stats with Better Styling -->
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarunajvm&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook,html" alt="Top Languages" />
@@ -290,7 +290,7 @@ console.log(saravanan.skills.languages); // ["Java", "JavaScript", "TypeScript",
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvarunajvm&custom_title=📊%20Contribution%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area_color=00b3ff&title_color=ffffff&area=true" alt="Contribution Graph" width="98%"/>
 
 <!-- 3D Contribution Profile -->
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=sarvarunajvm&theme=radical&animation=true" width="98%" alt="3D Contributions"/>
+<img src="https://github-readme-3d-contrib.vercel.app/api?username=sarvarunajvm&theme=radical" width="98%" alt="3D Contributions"/>
 
 <!-- Contribution Snake Animation -->
 <picture>
@@ -347,14 +347,17 @@ console.log(saravanan.skills.languages); // ["Java", "JavaScript", "TypeScript",
 
 <div align="center">
 
-<!-- Pinned Repository Cards -->
-<a href="https://github.com/sarvarunajvm/gem-of-config">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sarvarunajvm&repo=gem-of-config&theme=radical&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117" />
+<!-- Repository Cards - Replace with your actual repo names -->
+<a href="https://github.com/sarvarunajvm?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarvarunajvm&repo=sarvarunajvm&theme=radical&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&show_owner=false" width="49%" alt="Profile Repo" />
 </a>
 
-<a href="https://github.com/sarvarunajvm/gem-of-view">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sarvarunajvm&repo=gem-of-view&theme=radical&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117" />
+<!-- Add more repository cards by replacing 'REPO_NAME' with your actual repositories -->
+<!--
+<a href="https://github.com/sarvarunajvm/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarvarunajvm&repo=REPO_NAME&theme=radical&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="Repository" />
 </a>
+-->
 
 </div>
 
@@ -511,12 +514,7 @@ System Design         ███████████████░░░░�
 <div align="center">
 
 <!-- Dev Joke -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%2300b3ff&aColor=%23c9d1d9" alt="Jokes Card" />
-
-<br/><br/>
-
-<!-- Random Meme -->
-<img src='https://memer-new.vercel.app/' style="height: 400px;" alt="Dev Meme"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
 
 </div>
 
@@ -535,7 +533,7 @@ System Design         ███████████████░░░░�
 <br/>
 
 <!-- Visitor Counter -->
-<img src="https://visitcount.itsvg.in/api?id=sarvarunajvm&icon=5&color=0" alt="Visit Counter"/>
+<img src="https://profile-counter.glitch.me/sarvarunajvm/count.svg" alt="Visit Counter"/>
 
 ---
 
