@@ -89,7 +89,7 @@ class SeniorSoftwareEngineer {
 
   get achievements() {
     return [
-      "🏆 5+ years of professional software engineering",
+      "🏆 8+ years of professional software engineering",
       "🌟 Active open source maintainer & contributor",
       "📝 Technical writer & knowledge sharing enthusiast",
       "🚀 Built production-grade applications serving thousands",
@@ -400,7 +400,7 @@ gantt
 ```diff
 @@                  Career Highlights                  @@
 
-+ 🏆 5+ Years as Senior Software Engineer
++ 🏆 8+ Years as Senior Software Engineer
 + 🌟 Open Source Maintainer (gem-of-config, gem-of-view)
 + 📝 Technical Writer & Knowledge Sharing Advocate
 + 🚀 Built Production Systems Serving 10,000+ Users
