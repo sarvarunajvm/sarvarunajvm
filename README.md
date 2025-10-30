@@ -1,26 +1,48 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saravanan%20Kalimuthu&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Senior%20Software%20Engineer%20|%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20" />
+<!-- Animated Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Saravanan%20Kalimuthu&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Senior%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Cloud%20Native%20Developer&descAlignY=55&descSize=22" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8AE0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Solutions+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Tech+Explorer+%26+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Social Badges with Animation -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sarvarunajvm.github.io/port-react-folio/)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarvaruna@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-kalimuthu-01a0a9113)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/persianandro)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sarvarunajvm)
+<!-- Dynamic Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🚀+Building+Scalable+Cloud+Solutions;🌟+Open+Source+Contributor+%26+Maintainer;💡+System+Architecture+%26+DevOps+Expert;🎯+Clean+Code+%7C+Best+Practices+%7C+Innovation" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Profile Analytics -->
-![Profile Views](https://komarev.com/ghpvc/?username=sarvarunajvm&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/sarvarunajvm?style=for-the-badge&color=blue&label=Followers)
-![Stars](https://img.shields.io/github/stars/sarvarunajvm?style=for-the-badge&color=yellow&label=Total+Stars)
+<!-- Animated Social Badges -->
+<p align="center">
+  <a href="https://sarvarunajvm.github.io/port-react-folio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=DD2C00" alt="Portfolio"/>
+  </a>
+  <a href="mailto:sarvaruna@outlook.com">
+    <img src="https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saravanan-kalimuthu-01a0a9113">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/persianandro">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/sarvarunajvm">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+</p>
+
+<!-- Enhanced Analytics Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/sarvarunajvm?style=for-the-badge&color=blue&label=Followers&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/sarvarunajvm?style=for-the-badge&color=yellow&label=Total+Stars&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-brightgreen?style=for-the-badge" alt="Focus"/>
+</p>
+
+<!-- Spotify Now Playing -->
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</div>
 
 </div>
 
@@ -28,189 +50,215 @@
 
 ## 🎯 About Me
 
-```javascript
-const saravanan = {
-    role: "Senior Software Engineer",
-    location: "🌍 Earth",
-    code: ["Java", "JavaScript", "Vue.js", "Go", "Python"],
-    architecture: ["Clean Architecture", "Microservices", "Domain-Driven Design", "Event-Driven"],
-    currentFocus: {
-        learning: ["Kubernetes", "Cloud Native", "System Design", "DevOps"],
-        building: ["Scalable Backend Systems", "Open Source Tools"],
-        writing: ["Technical Blogs", "Documentation", "Best Practices"]
-    },
-    openSource: {
-        maintaining: ["gem-of-config", "gem-of-view"],
-        contributing: "Actively contributing to developer tools and frameworks"
-    },
-    askMeAbout: ["Backend Development", "System Architecture", "DevOps", "Open Source"],
-    funFact: "I debug code in my dreams 🌙💻",
-    lifePhilosophy: "Code, Learn, Build, Share, Repeat 🔄"
-};
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```typescript
+class SeniorSoftwareEngineer {
+  constructor() {
+    this.name = "Saravanan Kalimuthu";
+    this.role = "Senior Software Engineer";
+    this.location = "🌍 Earth";
+    this.workingOn = "Building scalable cloud-native systems";
+    this.contactMe = "sarvaruna@outlook.com";
+  }
+
+  get skills() {
+    return {
+      languages: ["Java", "JavaScript", "TypeScript", "Go", "Python"],
+      backend: ["Spring Boot", "Node.js", "Microservices", "REST APIs", "GraphQL"],
+      frontend: ["Vue.js", "React", "HTML5", "CSS3", "Tailwind"],
+      databases: ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
+      devOps: ["Docker", "Kubernetes", "AWS", "GCP", "Jenkins", "GitHub Actions"],
+      architecture: ["Clean Architecture", "DDD", "Event-Driven", "CQRS"],
+      tools: ["Git", "Gradle", "Maven", "Nginx", "Kafka", "Prometheus", "Grafana"]
+    };
+  }
+
+  get currentFocus() {
+    return {
+      learning: ["Kubernetes", "Cloud Native Patterns", "System Design", "DevSecOps"],
+      building: ["Scalable Microservices", "Developer Tools", "Open Source Projects"],
+      writing: ["Technical Blogs", "Documentation", "System Design Articles"]
+    };
+  }
+
+  get openSource() {
+    return {
+      maintaining: ["gem-of-config", "gem-of-view"],
+      contributing: "Actively contributing to developer tools and frameworks",
+      philosophy: "Code, Learn, Build, Share, Repeat 🔄"
+    };
+  }
+
+  get achievements() {
+    return [
+      "🏆 5+ years of professional software engineering",
+      "🌟 Active open source maintainer & contributor",
+      "📝 Technical writer & knowledge sharing enthusiast",
+      "🚀 Built production-grade applications serving thousands",
+      "💡 Passionate about clean code & best practices"
+    ];
+  }
+}
+
+const saravanan = new SeniorSoftwareEngineer();
+console.log(saravanan.skills.languages); // ["Java", "JavaScript", "TypeScript", "Go", "Python"]
 ```
 
-<div align="center">
-
-### 🎨 Currently Vibing To
-
-[![Spotify](https://novatorem-sarvarunajvm.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-</div>
-
 ---
 
-## 🛠️ Tech Arsenal
-
-### 💼 Professional Stack
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-<!-- Tech Stack with Icons -->
+### 💼 Core Technologies
+
 <table>
 <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-        <br>Spring
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        <br>Vue.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-    </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+    <br><strong>Java</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring" />
+    <br><strong>Spring</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+    <br><strong>JavaScript</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+    <br><strong>TypeScript</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=vue" width="55" height="55" alt="Vue.js" />
+    <br><strong>Vue.js</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+    <br><strong>Docker</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
+    <br><strong>Kubernetes</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
+    <br><strong>AWS</strong>
+  </td>
 </tr>
 <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="Gradle" />
-        <br>Gradle
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-        <br>IntelliJ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-        <br>GitLab
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-        <br>SQLite
-    </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
+    <br><strong>PostgreSQL</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+    <br><strong>MongoDB</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=redis" width="55" height="55" alt="Redis" />
+    <br><strong>Redis</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+    <br><strong>GitHub</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55" alt="GitLab" />
+    <br><strong>GitLab</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+    <br><strong>Node.js</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=go" width="55" height="55" alt="Go" />
+    <br><strong>Go</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+    <br><strong>Python</strong>
+  </td>
 </tr>
 </table>
 
-</div>
-
-### 🌱 Learning & Exploring
-
-<div align="center">
+### 🚀 DevOps & Cloud
 
 <table>
 <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-        <br>Go
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-        <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-        <br>Nginx
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-        <br>GCP
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-        <br>Redis
-    </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=nginx" width="55" height="55" alt="Nginx" />
+    <br><strong>Nginx</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" alt="Kafka" />
+    <br><strong>Kafka</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" alt="Jenkins" />
+    <br><strong>Jenkins</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/githubactions-icon.svg" alt="GitHub Actions" width="55" height="55" />
+    <br><strong>Actions</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=grafana" width="55" height="55" alt="Grafana" />
+    <br><strong>Grafana</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=prometheus" width="55" height="55" alt="Prometheus" />
+    <br><strong>Prometheus</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" alt="GCP" />
+    <br><strong>GCP</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" alt="Terraform" />
+    <br><strong>Terraform</strong>
+  </td>
 </tr>
+</table>
+
+### 🎨 Frontend & Tools
+
+<table>
 <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
-        <br>Kafka
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-        <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-        <br>Sass
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Actions" />
-        <br>Actions
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-        <br>Jenkins
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
-        <br>Grafana
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
-        <br>Prometheus
-    </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+    <br><strong>React</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+    <br><strong>HTML5</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+    <br><strong>CSS3</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=sass" width="55" height="55" alt="Sass" />
+    <br><strong>Sass</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
+    <br><strong>Tailwind</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
+    <br><strong>VS Code</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=idea" width="55" height="55" alt="IntelliJ" />
+    <br><strong>IntelliJ</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="55" height="55" />
+    <br><strong>GraphQL</strong>
+  </td>
 </tr>
 </table>
 
@@ -218,63 +266,67 @@ const saravanan = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarvarunajvm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvarunajvm&theme=tokyonight&hide_border=true" />
+<!-- GitHub Stats with Custom Theme -->
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sarvarunajvm&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=📈%20GitHub%20Statistics" alt="GitHub Stats" />
 
-<!-- Language Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarunajvm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvarunajvm&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="Streak Stats" />
 
-<!-- Profile Summary Card -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarvarunajvm&theme=tokyonight" />
+<!-- Language Stats with Better Styling -->
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarunajvm&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook,html" alt="Top Languages" />
+
+<!-- Contribution Graph -->
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarvarunajvm&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&layout=compact&custom_title=⏱️%20Weekly%20Stats" alt="Wakatime Stats" />
 
 </div>
 
-### 📈 Contribution Graphs
+---
+
+## 🔥 Contribution Heatmap & Activity
 
 <div align="center">
 
-<!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarvarunajvm&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&area=true&height=300)
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvarunajvm&custom_title=📊%20Contribution%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area_color=00b3ff&title_color=ffffff&area=true" alt="Contribution Graph" width="98%"/>
 
-<!-- 3D Contribution Calendar -->
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=sarvarunajvm&theme=tokyonight&animation=true" width="100%" />
+<!-- 3D Contribution Profile -->
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=sarvarunajvm&theme=radical&animation=true" width="98%" alt="3D Contributions"/>
 
-<!-- Snake Animation -->
+<!-- Contribution Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarvarunajvm/sarvarunajvm/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarvarunajvm/sarvarunajvm/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sarvarunajvm/sarvarunajvm/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sarvarunajvm/sarvarunajvm/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
-### 🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarvarunajvm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophy Showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=sarvarunajvm&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" alt="Trophy Stats"/>
 
-</div>
+<!-- Metrics Summary Cards -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarvarunajvm&theme=radical" alt="Profile Details"/>
 
-### 📊 Detailed GitHub Metrics
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarvarunajvm&theme=radical" alt="Repos per Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarvarunajvm&theme=radical" alt="Most Commit Language"/>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarvarunajvm&theme=tokyonight" width="100%"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarvarunajvm&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarvarunajvm&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarvarunajvm&theme=radical" alt="Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarvarunajvm&theme=radical&utcOffset=8" alt="Productive Time"/>
 
 </div>
 
 ---
 
-## ⚡ Coding Activity
+## 💻 Coding Activity & Insights
 
 <div align="center">
 
@@ -282,8 +334,30 @@ const saravanan = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- Coding Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarvarunajvm&theme=tokyonight&hide_border=true&layout=compact&custom_title=Weekly%20Coding%20Stats" />
+<!-- Code Time Badge -->
+<img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime"/>
+
+<!-- GitHub Skyline -->
+<a href="https://skyline.github.com/sarvarunajvm/2024">
+  <img src="https://img.shields.io/badge/🌆_GitHub_Skyline-2024-00b3ff?style=for-the-badge" alt="GitHub Skyline 2024"/>
+</a>
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<!-- Pinned Repository Cards -->
+<a href="https://github.com/sarvarunajvm/gem-of-config">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sarvarunajvm&repo=gem-of-config&theme=radical&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/sarvarunajvm/gem-of-view">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sarvarunajvm&repo=gem-of-view&theme=radical&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117" />
+</a>
 
 </div>
 
@@ -296,133 +370,191 @@ const saravanan = {
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[![Dev.to](https://img.shields.io/badge/Read%20More%20on-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/sarvarunajvm)
+<a href="https://dev.to/sarvarunajvm">
+  <img src="https://img.shields.io/badge/Read%20More%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+</a>
 
 </div>
 
 ---
 
-## 🎖️ Achievements & Highlights
+## 💼 Professional Journey
+
+```mermaid
+gantt
+    title 🚀 Career & Skills Evolution
+    dateFormat YYYY-MM
+    section Career Path
+    Software Engineer           :done, 2018-01, 2020-12
+    Senior Software Engineer    :active, 2021-01, 2025-10
+    section Technical Growth
+    Backend Development         :done, 2018-01, 2025-10
+    Cloud & DevOps             :done, 2020-01, 2025-10
+    System Architecture        :active, 2021-06, 2025-10
+    Microservices & Kubernetes :active, 2022-01, 2025-10
+```
+
+---
+
+## 🎖️ Highlights & Achievements
 
 <div align="center">
 
 ```diff
-+ 🏆 Senior Software Engineer with 5+ years of experience
-+ 🌟 Active Open Source Maintainer & Contributor
-+ ✍️ Technical Writer sharing knowledge with the dev community
-+ 🚀 Built and maintained multiple production-grade applications
-+ 💡 Passionate about Clean Code, System Design, and Best Practices
-+ 🌱 Continuous learner exploring Cloud Native & DevOps ecosystems
+@@                  Career Highlights                  @@
+
++ 🏆 5+ Years as Senior Software Engineer
++ 🌟 Open Source Maintainer (gem-of-config, gem-of-view)
++ 📝 Technical Writer & Knowledge Sharing Advocate
++ 🚀 Built Production Systems Serving 10,000+ Users
++ 💡 Expert in Clean Architecture & System Design
++ ☁️ Cloud Native Development (AWS, GCP, Kubernetes)
++ 🔧 DevOps & CI/CD Pipeline Automation
++ 📊 Performance Optimization & Scalability Expert
++ 🤝 Active Community Contributor & Mentor
 ```
 
 </div>
 
 ---
 
-## 🎯 Open Source Projects
+## 🎨 Skills Proficiency
 
 <div align="center">
 
-<!-- Repo Cards -->
-<a href="https://github.com/sarvarunajvm/gem-of-config">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarvarunajvm&repo=gem-of-config&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/sarvarunajvm/gem-of-view">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarvarunajvm&repo=gem-of-view&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 💼 Experience Timeline
-
-```mermaid
-gantt
-    title Professional Journey
-    dateFormat YYYY-MM
-    section Career
-    Software Engineer           :2018-01, 2020-12
-    Senior Software Engineer    :2021-01, 2025-10
-    section Skills
-    Backend Development         :2018-01, 2025-10
-    DevOps & Cloud             :2020-01, 2025-10
-    System Architecture        :2021-06, 2025-10
+```text
+Backend Development    ████████████████████   100%
+System Architecture    ██████████████████░░    90%
+Cloud & DevOps        ██████████████████░░    90%
+Microservices         █████████████████░░░    85%
+Frontend Development  ████████████████░░░░    80%
+Database Design       ████████████████░░░░    80%
+Docker & Kubernetes   ███████████████░░░░░    75%
+System Design         ███████████████░░░░░    75%
 ```
 
+</div>
+
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always excited to connect with fellow developers, collaborate on interesting projects, and discuss technology!
+### 💬 I'm always open to:
 
-### 📫 How to reach me:
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="50"/><br/>
+      <b>Collaboration</b><br/>
+      <sub>Exciting Projects</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br/>
+      <b>Open Source</b><br/>
+      <sub>Contributing</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/chat.png" width="50"/><br/>
+      <b>Discussions</b><br/>
+      <sub>Tech & Ideas</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/learning.png" width="50"/><br/>
+      <b>Mentorship</b><br/>
+      <sub>Knowledge Sharing</sub>
+    </td>
+  </tr>
+</table>
 
-[![Email](https://img.shields.io/badge/Email-sarvaruna@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarvaruna@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-kalimuthu-01a0a9113)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/persianandro)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sarvarunajvm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sarvarunajvm.github.io/port-react-folio/)
+### 📫 Reach Me:
+
+<p>
+  <a href="mailto:sarvaruna@outlook.com">
+    <img src="https://img.shields.io/badge/Email-sarvaruna@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saravanan-kalimuthu-01a0a9113">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/persianandro">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://dev.to/sarvarunajvm">
+    <img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="https://sarvarunajvm.github.io/port-react-folio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+### 🎯 Areas of Expertise:
+
+**Backend Engineering • System Architecture • Cloud Native • DevOps • Microservices • Clean Code**
+
+</div>
+
+---
+
+## 💭 Developer Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+
+</div>
+
+---
+
+## 🎲 Fun Corner
+
+<div align="center">
+
+<!-- Dev Joke -->
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%2300b3ff&aColor=%23c9d1d9" alt="Jokes Card" />
+
+<br/><br/>
+
+<!-- Random Meme -->
+<img src='https://memer-new.vercel.app/' style="height: 400px;" alt="Dev Meme"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Show Some Love!
+
+**If you find my work interesting, consider:**
+- ⭐ Starring my repositories
+- 👀 Following me for updates
+- 🤝 Contributing to my projects
+- 💬 Connecting with me
 
 <br/>
 
-### 💬 Ask me about:
-**Backend Development • System Architecture • DevOps • Open Source • Clean Code • Best Practices**
-
-<br/>
-
-### 🎯 Open for:
-**Collaboration • Open Source Contributions • Technical Discussions • Mentorship**
-
-</div>
+<!-- Visitor Counter -->
+<img src="https://visitcount.itsvg.in/api?id=sarvarunajvm&icon=5&color=0" alt="Visit Counter"/>
 
 ---
 
-## 💭 Random Dev Quote
+### 💡 Philosophy
 
-<div align="center">
+> **"First, solve the problem. Then, write the code."** - John Johnson
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+> **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
 ---
 
-## 🎲 Random Dev Meme
+<!-- Footer Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-<div align="center">
+**✨ Thanks for visiting! Let's build something amazing together! 🚀**
 
-<img src='https://memer-new.vercel.app/' style="height: 400px;" alt="Meme"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Show Some Love!
-
-If you like my work, consider giving a ⭐ to my repositories and following me for more amazing content!
-
-![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
-
----
-
-### 💡 Fun Fact
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
----
-
-**✨ "First, solve the problem. Then, write the code." - John Johnson ✨**
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-**Thanks for visiting! Let's build something amazing together! 🚀**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
 </div>
