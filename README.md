@@ -53,53 +53,74 @@
 class SeniorSoftwareEngineer {
   constructor() {
     this.name = "Saravanan Kalimuthu";
-    this.role = "Senior Software Engineer";
-    this.location = "🌍 Earth";
-    this.workingOn = "Building scalable cloud-native systems";
+    this.role = "Senior Software Engineer @ PayPal";
+    this.experience = "8+ years in Java development";
+    this.location = "🇮🇳 India";
     this.contactMe = "sarvaruna@outlook.com";
   }
 
   get skills() {
     return {
-      languages: ["Java", "JavaScript", "TypeScript", "Go", "Python"],
-      backend: ["Spring Boot", "Node.js", "Microservices", "REST APIs", "GraphQL"],
-      frontend: ["Vue.js", "React", "HTML5", "CSS3", "Tailwind"],
-      databases: ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
-      devOps: ["Docker", "Kubernetes", "AWS", "GCP", "Jenkins", "GitHub Actions"],
-      architecture: ["Clean Architecture", "DDD", "Event-Driven", "CQRS"],
-      tools: ["Git", "Gradle", "Maven", "Nginx", "Kafka", "Prometheus", "Grafana"]
+      backend: [
+        "Java", "Spring Boot", "Spring Security", "Spring REST",
+        "JAX-RS", "SOAP", "WebSockets", "Hibernate/JPA", "Maven", "Gradle"
+      ],
+      frontend: [
+        "Node.js", "Vue.js", "React.js", "HTML5/CSS3", "Vuex", "Redux"
+      ],
+      databases: ["Oracle", "PostgreSQL", "H2", "Redis", "BigQuery", "BigTable"],
+      devOps: [
+        "Jenkins", "GitHub Actions", "Docker", "Google Cloud", "AWS",
+        "Otel", "Micrometer", "Splunk", "Datadog"
+      ],
+      testing: ["JUnit", "Mockito", "Jest", "Cypress"],
+      tools: ["Git", "JIRA", "Confluence", "AMQ/Kafka", "OAuth2", "JWT", "SonarQube"]
     };
   }
 
-  get currentFocus() {
+  get currentRole() {
     return {
-      learning: ["Kubernetes", "Cloud Native Patterns", "System Design", "DevSecOps"],
-      building: ["Scalable Microservices", "Developer Tools", "Open Source Projects"],
-      writing: ["Technical Blogs", "Documentation", "System Design Articles"]
+      company: "PayPal",
+      position: "Senior Software Engineer",
+      duration: "May 2021 - Present",
+      impact: [
+        "Webhooks solution → adopted by 10% of merchants",
+        "Near-real-time analytics → 0.01% revenue increase",
+        "API performance optimization → 1.5x faster response",
+        "Spam reduction → below 2%",
+        "95% on-time delivery rate",
+        "70% code coverage with JUnit 5",
+        "Scrum Master → 90% Say-Do ratio"
+      ]
     };
   }
 
-  get openSource() {
+  get openSourceContributions() {
     return {
-      maintaining: ["gem-of-config", "gem-of-view"],
-      contributing: "Actively contributing to developer tools and frameworks",
-      philosophy: "Code, Learn, Build, Share, Repeat 🔄"
+      "utils-commons": "Java utilities (Apache Commons inspired)",
+      "port-advancer": "Network tool used by 60+ employees",
+      "vue-embed-gist": "270+ weekly downloads on NPM"
     };
   }
 
-  get achievements() {
+  get expertise() {
     return [
-      "🏆 8+ years of professional software engineering",
-      "🌟 Active open source maintainer & contributor",
-      "📝 Technical writer & knowledge sharing enthusiast",
-      "🚀 Built production-grade applications serving thousands",
-      "💡 Passionate about clean code & best practices"
+      "Scalable Enterprise Applications",
+      "Microservices & Event-Driven Architecture",
+      "SOLID Principles & Design Patterns",
+      "Performance Optimization & Caching",
+      "Test-Driven Development",
+      "Database Optimization"
     ];
+  }
+
+  get summary() {
+    return "Results-oriented engineer with 8+ years building scalable enterprise apps. Proven track record of delivering measurable business impact through technical excellence and innovation.";
   }
 }
 
 const saravanan = new SeniorSoftwareEngineer();
-console.log(saravanan.skills.languages); // ["Java", "JavaScript", "TypeScript", "Go", "Python"]
+console.log(saravanan.currentRole.company); // "PayPal"
 ```
 
 ---
@@ -198,7 +219,7 @@ console.log(saravanan.skills.languages); // ["Java", "JavaScript", "TypeScript",
     <br><strong>Jenkins</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://techstack-generator.vercel.app/githubactions-icon.svg" alt="GitHub Actions" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="GitHub Actions" />
     <br><strong>Actions</strong>
   </td>
   <td align="center" width="100">
@@ -322,17 +343,48 @@ console.log(saravanan.skills.languages); // ["Java", "JavaScript", "TypeScript",
 
 <div align="center">
 
-<!-- Repository Cards - Replace with your actual repo names -->
-<a href="https://github.com/sarvarunajvm?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarvarunajvm&repo=sarvarunajvm&theme=radical&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&show_owner=false" width="49%" alt="Profile Repo" />
-</a>
+### Open Source Contributions
 
-<!-- Add more repository cards by replacing 'REPO_NAME' with your actual repositories -->
-<!--
-<a href="https://github.com/sarvarunajvm/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarvarunajvm&repo=REPO_NAME&theme=radical&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="Repository" />
-</a>
--->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Utils-Commons</h3>
+      <p><strong>Java</strong> | Utility Library</p>
+      <p>Inspired by Apache Commons IO, this library provides utilities for String, Number, Date, Set, List, BLOB, and Zip operations.</p>
+      <a href="https://github.com/sarvarunajvm/utils-commons">
+        <img src="https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Port-Advancer</h3>
+      <p><strong>Node.js</strong> | DevOps Tool</p>
+      <p>User-friendly tool enabling 60+ employees to perform port forwarding and reverse proxying for secure internet access within restricted networks.</p>
+      <a href="https://github.com/sarvarunajvm/port-advancer">
+        <img src="https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 vue-embed-gist</h3>
+      <p><strong>JavaScript/Vue</strong> | Component Library</p>
+      <p>Contributor to open-source project averaging <strong>270 downloads per week</strong> on NPM.</p>
+      <a href="https://github.com/sudhanshu-15/vue-embed-gist/pull/13">
+        <img src="https://img.shields.io/badge/View_PR-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+      <a href="http://goo.gl/Hjkx2j">
+        <img src="https://img.shields.io/badge/View_on-NPM-CB3837?style=for-the-badge&logo=npm" alt="NPM"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📂 More Projects</h3>
+      <p>Explore additional repositories and contributions</p>
+      <a href="https://github.com/sarvarunajvm?tab=repositories">
+        <img src="https://img.shields.io/badge/Browse_All-Repositories-00b3ff?style=for-the-badge&logo=github" alt="All Repos"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -357,16 +409,21 @@ console.log(saravanan.skills.languages); // ["Java", "JavaScript", "TypeScript",
 
 ```mermaid
 gantt
-    title 🚀 Career & Skills Evolution
+    title 🚀 Career & Skills Evolution Timeline
     dateFormat YYYY-MM
     section Career Path
-    Software Engineer           :done, 2018-01, 2020-12
-    Senior Software Engineer    :active, 2021-01, 2025-10
+    CoreNett Technologies       :done, 2016-06, 2017-12
+    Wellspring Software Labs    :done, 2018-02, 2019-09
+    Assetpulse Inc             :done, 2019-10, 2021-05
+    PayPal (Sr Engineer)       :active, 2021-05, 2025-10
+    section Education
+    BCA - Gurunanak College    :done, 2011-01, 2014-12
+    MCA - University of Madras :done, 2016-01, 2019-12
     section Technical Growth
-    Backend Development         :done, 2018-01, 2025-10
-    Cloud & DevOps             :done, 2020-01, 2025-10
-    System Architecture        :active, 2021-06, 2025-10
-    Microservices & Kubernetes :active, 2022-01, 2025-10
+    Java & Spring Ecosystem    :done, 2016-06, 2025-10
+    Cloud & DevOps (GCP/AWS)   :done, 2019-10, 2025-10
+    Microservices & APIs       :active, 2020-01, 2025-10
+    Performance Optimization   :active, 2021-05, 2025-10
 ```
 
 ---
@@ -376,17 +433,35 @@ gantt
 <div align="center">
 
 ```diff
-@@                  Career Highlights                  @@
+@@                  PayPal Achievements (2021-Present)                  @@
 
-+ 🏆 8+ Years as Senior Software Engineer
-+ 🌟 Open Source Maintainer (gem-of-config, gem-of-view)
-+ 📝 Technical Writer & Knowledge Sharing Advocate
-+ 🚀 Built Production Systems Serving 10,000+ Users
-+ 💡 Expert in Clean Architecture & System Design
-+ ☁️ Cloud Native Development (AWS, GCP, Kubernetes)
-+ 🔧 DevOps & CI/CD Pipeline Automation
-+ 📊 Performance Optimization & Scalability Expert
-+ 🤝 Active Community Contributor & Mentor
++ 💳 Webhooks Solution → 10% Merchant Adoption Rate
++ 📊 Real-Time Analytics → 0.01% Revenue Growth
++ ⚡ API Performance → 1.5x Speed Improvement
++ 🛡️ Spam Reduction → Below 2% Success
++ 🎯 Delivery Excellence → 95% On-Time Completion
++ ✅ Code Quality → 70% Coverage with JUnit 5
++ 👥 Scrum Master → 90% Say-Do Ratio
+
+@@                  Prior Experience Highlights                  @@
+
++ 🔄 Legacy Modernization → 2% Engagement Boost (Assetpulse)
++ 💰 BLE vs RFID → 33% Cost Savings (Assetpulse)
++ 🚀 WebSocket Enhancement → 5% Conversion Rate (Assetpulse)
++ 📦 68% Code Coverage Achievement (Assetpulse)
++ ⚡ Response Time → 1200ms to 700ms (Wellspring)
++ 📊 Stakeholder Alignment → 25% Faster (Wellspring)
++ 📈 Report Performance → 30% Improvement (CoreNett)
++ 🔧 RTB Reduction → 10% via Config Systems (CoreNett)
+
+@@                  Open Source & Education                  @@
+
++ 🌟 8+ Years Java Development Expertise
++ 📦 Utils-Commons → Apache Commons Inspired
++ 🔧 Port-Advancer → Used by 60+ Employees
++ 🎨 vue-embed-gist → 270+ Weekly NPM Downloads
++ 🎓 MCA → University of Madras (2016-2019)
++ 🎓 BCA → Gurunanak College (2011-2014)
 ```
 
 </div>
