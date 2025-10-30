@@ -270,13 +270,9 @@ console.log(saravanan.skills.languages); // ["Java", "JavaScript", "TypeScript",
 <!-- GitHub Stats with Custom Theme -->
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sarvarunajvm&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=📈%20GitHub%20Statistics" alt="GitHub Stats" />
 
-<img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=sarvarunajvm&theme=dark&hide_border=true&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff&sideNums=00b3ff&sideLabels=c9d1d9&dates=c9d1d9" alt="Streak Stats" />
-
 <!-- Language Stats with Better Styling -->
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarunajvm&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook,html" alt="Top Languages" />
 
-<!-- Contribution Graph -->
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarvarunajvm&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&layout=compact&custom_title=⏱️%20Weekly%20Stats" alt="Wakatime Stats" />
 
 </div>
 
@@ -289,13 +285,12 @@ console.log(saravanan.skills.languages); // ["Java", "JavaScript", "TypeScript",
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvarunajvm&custom_title=📊%20Contribution%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area_color=00b3ff&title_color=ffffff&area=true" alt="Contribution Graph" width="98%"/>
 
-<!-- 3D Contribution Profile -->
-<img src="https://github-readme-3d-contrib.vercel.app/api?username=sarvarunajvm&theme=radical" width="98%" alt="3D Contributions"/>
+<br/><br/>
 
 <!-- Contribution Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarvarunajvm/sarvarunajvm/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarvarunajvm/sarvarunajvm/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarvarunajvm/sarvarunajvm/output/github-contribution-grid-snake-light.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sarvarunajvm/sarvarunajvm/output/github-contribution-grid-snake.svg">
 </picture>
 
@@ -318,26 +313,6 @@ console.log(saravanan.skills.languages); // ["Java", "JavaScript", "TypeScript",
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarvarunajvm&theme=radical" alt="Stats"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarvarunajvm&theme=radical&utcOffset=8" alt="Productive Time"/>
-
-</div>
-
----
-
-## 💻 Coding Activity & Insights
-
-<div align="center">
-
-<!-- WakaTime Stats -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- Code Time Badge -->
-<img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime"/>
-
-<!-- GitHub Skyline -->
-<a href="https://skyline.github.com/sarvarunajvm/2024">
-  <img src="https://img.shields.io/badge/🌆_GitHub_Skyline-2024-00b3ff?style=for-the-badge" alt="GitHub Skyline 2024"/>
-</a>
 
 </div>
 
@@ -531,9 +506,6 @@ System Design         ███████████████░░░░�
 - 💬 Connecting with me
 
 <br/>
-
-<!-- Visitor Counter -->
-<img src="https://profile-counter.glitch.me/sarvarunajvm/count.svg" alt="Visit Counter"/>
 
 ---
 
