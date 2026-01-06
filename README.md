@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Saravanan%20Kalimuthu&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Senior%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Cloud%20Native%20Developer&descAlignY=55&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Saravanan%20Kalimuthu&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Senior%20Software%20Engineer%20%7C%20Building%20systems%20that%20scale&descAlignY=55&descSize=22" />
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=Building+Scalable+Cloud+Solutions;Open+Source+Contributor+and+Maintainer;System+Architecture+and+DevOps+Expert;Clean+Code+Best+Practices+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=Building+Systems+That+Scale;Privacy-First+Open+Source+Tools;Crafting+Joyful+Developer+Experiences;Backend+Architecture+%26+Cloud+Native" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,12 +29,11 @@
   </a>
 </p>
 
-<!-- Enhanced Analytics Badges -->
+<!-- Visitor Count & Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=for-the-badge&color=0e75b6&label=VISITORS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/sarvarunajvm?style=for-the-badge&color=blue&label=Followers&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/sarvarunajvm?style=for-the-badge&color=yellow&label=Total+Stars&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-brightgreen?style=for-the-badge" alt="Focus"/>
 </p>
 
 </div>
@@ -47,6 +46,8 @@
   <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
+> **10+ years building reliable web apps and automations that save teams time.** Passionate about open source, privacy-first tools, and crafting developer experiences that spark joy.
+
 <br/>
 
 ```typescript
@@ -54,27 +55,17 @@ class SeniorSoftwareEngineer {
   constructor() {
     this.name = "Saravanan Kalimuthu";
     this.role = "Senior Software Engineer @ PayPal";
-    this.experience = "8+ years in Java development";
-    this.location = "🇮🇳 India";
-    this.contactMe = "sarvaruna@outlook.com";
+    this.location = "🇮🇳 Chennai, India";
+    this.contact = "sarvaruna@outlook.com";
   }
 
   get skills() {
     return {
-      backend: [
-        "Java", "Spring Boot", "Spring Security", "Spring REST",
-        "JAX-RS", "SOAP", "WebSockets", "Hibernate/JPA", "Maven", "Gradle"
-      ],
-      frontend: [
-        "Node.js", "Vue.js", "React.js", "HTML5/CSS3", "Vuex", "Redux"
-      ],
-      databases: ["Oracle", "PostgreSQL", "H2", "Redis", "BigQuery", "BigTable"],
-      devOps: [
-        "Jenkins", "GitHub Actions", "Docker", "Google Cloud", "AWS",
-        "Otel", "Micrometer", "Splunk", "Datadog"
-      ],
-      testing: ["JUnit", "Mockito", "Jest", "Cypress"],
-      tools: ["Git", "JIRA", "Confluence", "AMQ/Kafka", "OAuth2", "JWT", "SonarQube"]
+      backend: ["Java", "Spring Boot", "Python", "FastAPI", "Elixir", "Phoenix", "Kafka"],
+      frontend: ["React", "Vue.js", "TypeScript", "LiveView", "Electron", "Node.js"],
+      ai_ml: ["OpenAI CLIP", "PyTorch", "InsightFace", "Tesseract OCR", "MCP"],
+      databases: ["PostgreSQL", "SQLite", "Oracle", "Redis", "BigQuery"],
+      devOps: ["Docker", "Kubernetes", "GCP", "AWS", "GitHub Actions", "Datadog"]
     };
   }
 
@@ -82,40 +73,27 @@ class SeniorSoftwareEngineer {
     return {
       company: "PayPal",
       position: "Senior Software Engineer",
-      duration: "May 2021 - Present",
+      focus: "Merchant-facing Webhook & Analytics Systems",
       impact: [
-        "Webhooks solution → adopted by 10% of merchants",
-        "Near-real-time analytics → 0.01% revenue increase",
-        "API performance optimization → 1.5x faster response",
-        "Spam reduction → below 2%",
-        "95% on-time delivery rate",
-        "70% code coverage with JUnit 5",
-        "Scrum Master → 90% Say-Do ratio"
+        "Webhooks adopted by 10% of merchants",
+        "+0.01% revenue impact via real-time analytics",
+        "Reduced spam to below 2%",
+        "1.5x faster API response optimization"
       ]
     };
   }
 
-  get openSourceContributions() {
+  get openSourceActivity() {
     return {
-      "utils-commons": "Java utilities (Apache Commons inspired)",
-      "port-advancer": "Network tool used by 60+ employees",
-      "vue-embed-gist": "270+ weekly downloads on NPM"
+      created: [
+        "Ideal Goggles (Privacy-first AI photo search)",
+        "Port Advancer (Secure networking tool)"
+      ],
+      contributed: [
+        "Mydia (Media management platform)",
+        "Skill Seekers (AI/MCP documentation tool)"
+      ]
     };
-  }
-
-  get expertise() {
-    return [
-      "Scalable Enterprise Applications",
-      "Microservices & Event-Driven Architecture",
-      "SOLID Principles & Design Patterns",
-      "Performance Optimization & Caching",
-      "Test-Driven Development",
-      "Database Optimization"
-    ];
-  }
-
-  get summary() {
-    return "Results-oriented engineer with 8+ years building scalable enterprise apps. Proven track record of delivering measurable business impact through technical excellence and innovation.";
   }
 }
 
@@ -129,7 +107,7 @@ console.log(saravanan.currentRole.company); // "PayPal"
 
 <div align="center">
 
-### 💼 Core Technologies
+### 💼 Backend & Cloud
 
 <table>
 <tr>
@@ -142,16 +120,20 @@ console.log(saravanan.currentRole.company); // "PayPal"
     <br><strong>Spring</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
-    <br><strong>JavaScript</strong>
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+    <br><strong>Python</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
-    <br><strong>TypeScript</strong>
+    <img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" alt="FastAPI" />
+    <br><strong>FastAPI</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=vue" width="55" height="55" alt="Vue.js" />
-    <br><strong>Vue.js</strong>
+    <img src="https://skillicons.dev/icons?i=elixir" width="55" height="55" alt="Elixir" />
+    <br><strong>Elixir</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" alt="Kafka" />
+    <br><strong>Kafka</strong>
   </td>
   <td align="center" width="100">
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
@@ -159,80 +141,37 @@ console.log(saravanan.currentRole.company); // "PayPal"
   </td>
   <td align="center" width="100">
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
-    <br><strong>Kubernetes</strong>
-  </td>
-  <td align="center" width="100">
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
-    <br><strong>AWS</strong>
+    <br><strong>K8s</strong>
   </td>
 </tr>
 <tr>
   <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
-    <br><strong>PostgreSQL</strong>
+    <img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" alt="GCP" />
+    <br><strong>GCP</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
-    <br><strong>MongoDB</strong>
+    <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS" />
+    <br><strong>AWS</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
+    <br><strong>Postgres</strong>
   </td>
   <td align="center" width="100">
     <img src="https://skillicons.dev/icons?i=redis" width="55" height="55" alt="Redis" />
     <br><strong>Redis</strong>
   </td>
-  <td align="center" width="100">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
-    <br><strong>GitHub</strong>
-  </td>
-  <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55" alt="GitLab" />
-    <br><strong>GitLab</strong>
-  </td>
-  <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
-    <br><strong>Node.js</strong>
-  </td>
-  <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=go" width="55" height="55" alt="Go" />
-    <br><strong>Go</strong>
-  </td>
-  <td align="center" width="100">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-    <br><strong>Python</strong>
-  </td>
-</tr>
-</table>
-
-### 🚀 DevOps & Cloud
-
-<table>
-<tr>
-  <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=nginx" width="55" height="55" alt="Nginx" />
-    <br><strong>Nginx</strong>
-  </td>
-  <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" alt="Kafka" />
-    <br><strong>Kafka</strong>
-  </td>
-  <td align="center" width="100">
+   <td align="center" width="100">
     <img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" alt="Jenkins" />
     <br><strong>Jenkins</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="GitHub Actions" />
+    <img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="Actions" />
     <br><strong>Actions</strong>
   </td>
   <td align="center" width="100">
     <img src="https://skillicons.dev/icons?i=grafana" width="55" height="55" alt="Grafana" />
     <br><strong>Grafana</strong>
-  </td>
-  <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=prometheus" width="55" height="55" alt="Prometheus" />
-    <br><strong>Prometheus</strong>
-  </td>
-  <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" alt="GCP" />
-    <br><strong>GCP</strong>
   </td>
   <td align="center" width="100">
     <img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" alt="Terraform" />
@@ -241,7 +180,7 @@ console.log(saravanan.currentRole.company); // "PayPal"
 </tr>
 </table>
 
-### 🎨 Frontend & Tools
+### 🎨 Frontend & AI/ML
 
 <table>
 <tr>
@@ -250,32 +189,32 @@ console.log(saravanan.currentRole.company); // "PayPal"
     <br><strong>React</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
-    <br><strong>HTML5</strong>
+    <img src="https://skillicons.dev/icons?i=vue" width="55" height="55" alt="Vue.js" />
+    <br><strong>Vue.js</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
-    <br><strong>CSS3</strong>
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+    <br><strong>TypeScript</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=sass" width="55" height="55" alt="Sass" />
-    <br><strong>Sass</strong>
+    <img src="https://skillicons.dev/icons?i=phoenix" width="55" height="55" alt="LiveView" />
+    <br><strong>LiveView</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
-    <br><strong>Tailwind</strong>
+    <img src="https://skillicons.dev/icons?i=electron" width="55" height="55" alt="Electron" />
+    <br><strong>Electron</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
-    <br><strong>VS Code</strong>
+    <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" alt="PyTorch" />
+    <br><strong>PyTorch</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=idea" width="55" height="55" alt="IntelliJ" />
-    <br><strong>IntelliJ</strong>
+    <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" alt="SQLite" />
+    <br><strong>SQLite</strong>
   </td>
   <td align="center" width="100">
-    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="55" height="55" />
-    <br><strong>GraphQL</strong>
+    <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+    <br><strong>Node.js</strong>
   </td>
 </tr>
 </table>
@@ -293,7 +232,6 @@ console.log(saravanan.currentRole.company); // "PayPal"
 
 <!-- Language Stats with Better Styling -->
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarunajvm&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook,html" alt="Top Languages" />
-
 
 </div>
 
@@ -326,80 +264,59 @@ console.log(saravanan.currentRole.company); // "PayPal"
 <!-- Trophy Showcase -->
 <img src="https://github-profile-trophy.vercel.app/?username=sarvarunajvm&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" alt="Trophy Stats"/>
 
-<!-- Metrics Summary Cards -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarvarunajvm&theme=radical" alt="Profile Details"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarvarunajvm&theme=radical" alt="Repos per Language"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarvarunajvm&theme=radical" alt="Most Commit Language"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarvarunajvm&theme=radical" alt="Stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarvarunajvm&theme=radical&utcOffset=8" alt="Productive Time"/>
-
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Featured Projects & Contributions
 
 <div align="center">
 
-### Open Source Contributions
+<h3>🚀 My Projects</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 Utils-Commons</h3>
-      <p><strong>Java</strong> | Utility Library</p>
-      <p>Inspired by Apache Commons IO, this library provides utilities for String, Number, Date, Set, List, BLOB, and Zip operations.</p>
-      <a href="https://github.com/sarvarunajvm/utils-commons">
-        <img src="https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      <h3>🔍 Ideal Goggles</h3>
+      <p><strong>React + Python + Electron</strong></p>
+      <p>Privacy-first photo search powered by AI. Runs 100% locally. Features natural language search, face recognition, and OCR for 100K+ photo libraries.</p>
+      <a href="https://github.com/sarvarunajvm/ideal-goggles">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="GitHub"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔧 Port-Advancer</h3>
-      <p><strong>Node.js</strong> | DevOps Tool</p>
-      <p>User-friendly tool enabling 60+ employees to perform port forwarding and reverse proxying for secure internet access within restricted networks.</p>
+      <h3>🔧 Port Advancer</h3>
+      <p><strong>Node.js CLI</strong></p>
+      <p>Secure port forwarding tool for restricted corporate networks. Used daily by 60+ employees to securely access internet resources.</p>
       <a href="https://github.com/sarvarunajvm/port-advancer">
-        <img src="https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 vue-embed-gist</h3>
-      <p><strong>JavaScript/Vue</strong> | Component Library</p>
-      <p>Contributor to open-source project averaging <strong>270 downloads per week</strong> on NPM.</p>
-      <a href="https://github.com/sudhanshu-15/vue-embed-gist/pull/13">
-        <img src="https://img.shields.io/badge/View_PR-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-      </a>
-      <a href="http://goo.gl/Hjkx2j">
-        <img src="https://img.shields.io/badge/View_on-NPM-CB3837?style=for-the-badge&logo=npm" alt="NPM"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📂 More Projects</h3>
-      <p>Explore additional repositories and contributions</p>
-      <a href="https://github.com/sarvarunajvm?tab=repositories">
-        <img src="https://img.shields.io/badge/Browse_All-Repositories-00b3ff?style=for-the-badge&logo=github" alt="All Repos"/>
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="GitHub"/>
       </a>
     </td>
   </tr>
 </table>
 
-</div>
+<h3>🤝 Key Contributions</h3>
 
----
-
-## 📝 Latest Blog Posts
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<a href="https://dev.to/sarvarunajvm">
-  <img src="https://img.shields.io/badge/Read%20More%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📺 Mydia</h3>
+      <p><strong>Elixir + Phoenix LiveView</strong></p>
+      <p>Contributed to this modern, self-hosted media management platform. Worked on unified movies & TV tracking features.</p>
+      <a href="https://github.com/getmydia/mydia">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Skill Seekers</h3>
+      <p><strong>Python + AI/MCP</strong></p>
+      <p>Contributed to the MCP Server integration for this tool that converts documentation websites into Claude AI skills.</p>
+      <a href="https://github.com/yusufkaraaslan/Skill_Seekers">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -412,18 +329,16 @@ gantt
     title 🚀 Career & Skills Evolution Timeline
     dateFormat YYYY-MM
     section Career Path
-    CoreNett Technologies       :done, 2016-06, 2017-12
-    Wellspring Software Labs    :done, 2018-02, 2019-09
-    Assetpulse Inc             :done, 2019-10, 2021-05
+    CoreNett Technologies       :done, 2016-01, 2017-12
+    Wellspring Software Labs    :done, 2018-01, 2019-05
+    Assetpulse Inc             :done, 2019-06, 2021-04
     PayPal (Sr Engineer)       :active, 2021-05, 2025-10
-    section Education
-    BCA - Gurunanak College    :done, 2011-01, 2014-12
-    MCA - University of Madras :done, 2016-01, 2019-12
     section Technical Growth
-    Java & Spring Ecosystem    :done, 2016-06, 2025-10
-    Cloud & DevOps (GCP/AWS)   :done, 2019-10, 2025-10
+    Java & Spring Ecosystem    :done, 2016-01, 2025-10
+    Cloud & DevOps (GCP/AWS)   :done, 2019-06, 2025-10
     Microservices & APIs       :active, 2020-01, 2025-10
-    Performance Optimization   :active, 2021-05, 2025-10
+    AI & Python (FastAPI)      :active, 2023-01, 2025-10
+    Elixir & Phoenix           :active, 2024-01, 2025-10
 ```
 
 ---
@@ -436,51 +351,30 @@ gantt
 @@                  PayPal Achievements (2021-Present)                  @@
 
 + 💳 Webhooks Solution → 10% Merchant Adoption Rate
-+ 📊 Real-Time Analytics → 0.01% Revenue Growth
++ 📊 Real-Time Analytics → +0.01% Revenue Impact
 + ⚡ API Performance → 1.5x Speed Improvement
-+ 🛡️ Spam Reduction → Below 2% Success
++ 🛡️ Spam Reduction → Below 2%
 + 🎯 Delivery Excellence → 95% On-Time Completion
 + ✅ Code Quality → 70% Coverage with JUnit 5
 + 👥 Scrum Master → 90% Say-Do Ratio
 
-@@                  Prior Experience Highlights                  @@
+@@                  Assetpulse & Previous Highlights                  @@
 
-+ 🔄 Legacy Modernization → 2% Engagement Boost (Assetpulse)
++ 🔄 Legacy Modernization → +2% User Engagement (Assetpulse)
 + 💰 BLE vs RFID → 33% Cost Savings (Assetpulse)
-+ 🚀 WebSocket Enhancement → 5% Conversion Rate (Assetpulse)
++ 🚀 WebSocket Enhancement → +5% Conversion Rate (Assetpulse)
 + 📦 68% Code Coverage Achievement (Assetpulse)
 + ⚡ Response Time → 1200ms to 700ms (Wellspring)
 + 📊 Stakeholder Alignment → 25% Faster (Wellspring)
-+ 📈 Report Performance → 30% Improvement (CoreNett)
 + 🔧 RTB Reduction → 10% via Config Systems (CoreNett)
 
-@@                  Open Source & Education                  @@
+@@                  Open Source & Community                  @@
 
-+ 🌟 8+ Years Java Development Expertise
-+ 📦 Utils-Commons → Apache Commons Inspired
-+ 🔧 Port-Advancer → Used by 60+ Employees
-+ 🎨 vue-embed-gist → 270+ Weekly NPM Downloads
-+ 🎓 MCA → University of Madras (2016-2019)
-+ 🎓 BCA → Gurunanak College (2011-2014)
-```
-
-</div>
-
----
-
-## 🎨 Skills Proficiency
-
-<div align="center">
-
-```text
-Backend Development    ████████████████████   100%
-System Architecture    ██████████████████░░    90%
-Cloud & DevOps        ██████████████████░░    90%
-Microservices         █████████████████░░░    85%
-Frontend Development  ████████████████░░░░    80%
-Database Design       ████████████████░░░░    80%
-Docker & Kubernetes   ███████████████░░░░░    75%
-System Design         ███████████████░░░░░    75%
++ 🔍 Ideal Goggles → Creator: Privacy-first AI Photo Search
++ 📺 Mydia → Contributor: Unified Media Management
++ 🔧 Port Advancer → Creator: Corporate Networking Tool
++ 🎨 vue-embed-gist → Contributor: 270+ Weekly Downloads
++ 🧠 Skill Seekers → Contributor: MCP Integration
 ```
 
 </div>
