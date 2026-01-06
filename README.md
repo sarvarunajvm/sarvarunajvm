@@ -225,18 +225,19 @@ console.log(saravanan.currentRole.company); // "PayPal"
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvarunajvm&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<!-- GitHub Stats -->
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=sarvarunajvm&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-<!-- Top Languages -->
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarunajvm&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarunajvm&theme=radical&layout=compact" alt="Top Languages" />
+</p>
 
 <br/>
 
-<!-- Visitor Count -->
-<img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=flat-square&color=0e75b6&label=Profile%20Views" alt="Profile Views"/>
-
+<div align="center">
+  <!-- Visitor Count -->
+  <img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=flat-square&color=0e75b6&label=Profile%20Views" alt="Profile Views"/>
 </div>
 
 ---
@@ -265,7 +266,7 @@ console.log(saravanan.currentRole.company); // "PayPal"
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvarunajvm&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=sarvarunajvm&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
