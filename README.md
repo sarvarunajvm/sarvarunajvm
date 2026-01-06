@@ -227,11 +227,15 @@ console.log(saravanan.currentRole.company); // "PayPal"
 
 <div align="center">
 
-<!-- GitHub Stats with Custom Theme -->
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sarvarunajvm&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=📈%20GitHub%20Statistics" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=sarvarunajvm&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<!-- Top Languages -->
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarunajvm&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<!-- Language Stats with Better Styling -->
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarunajvm&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook,html" alt="Top Languages" />
+<br/>
+
+<!-- Visitor Count -->
+<img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=flat-square&color=0e75b6&label=Profile%20Views" alt="Profile Views"/>
 
 </div>
 
@@ -257,12 +261,11 @@ console.log(saravanan.currentRole.company); // "PayPal"
 
 ---
 
-## 🏆 GitHub Achievements
+## ⚡ GitHub Streak
 
 <div align="center">
 
-<!-- Trophy Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=sarvarunajvm&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" alt="Trophy Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvarunajvm&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
