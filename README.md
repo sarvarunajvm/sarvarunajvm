@@ -235,10 +235,11 @@ console.log(saravanan.currentRole.company); // "PayPal"
 
 <br/>
 
-<div align="center">
-  <!-- Visitor Count -->
-  <img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=flat-square&color=0e75b6&label=Profile%20Views" alt="Profile Views"/>
-</div>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sarvarunajvm&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</p>
 
 ---
 
@@ -257,16 +258,6 @@ console.log(saravanan.currentRole.company); // "PayPal"
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarvarunajvm/sarvarunajvm/output/github-contribution-grid-snake-light.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sarvarunajvm/sarvarunajvm/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
----
-
-## ⚡ GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sarvarunajvm&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
