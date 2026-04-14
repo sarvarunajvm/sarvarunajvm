@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Saravanan%20Kalimuthu&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Senior%20Software%20Engineer%20%7C%209%2B%20Years%20%C2%B7%20Distributed%20Systems%20%26%20Payments&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=Saravanan%20Kalimuthu&amp;fontSize=70&amp;fontAlignY=35&amp;animation=twinkling&amp;fontColor=ffffff&amp;desc=Senior%20Software%20Engineer%20%7C%209%2B%20Years%20%C2%B7%20Distributed%20Systems%20%26%20Payments&amp;descAlignY=55&amp;descSize=20" />
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=Distributed+Systems+%26+Payments;Architecture-Led+Delivery;Privacy-First+Open+Source;Invoicing+%26+Platform+Reliability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=32&amp;duration=2500&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=900&amp;height=80&amp;lines=Distributed+Systems+%26+Payments;Architecture-Led+Delivery;Privacy-First+Open+Source;Invoicing+%26+Platform+Reliability" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,27 +13,27 @@
 <!-- Animated Social Badges -->
 <p align="center">
   <a href="https://sarvarunajvm.github.io/port-react-folio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=DD2C00" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white&amp;labelColor=DD2C00" alt="Portfolio"/>
   </a>
   <a href="mailto:sarvaruna@outlook.com">
-    <img src="https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/saravanan-kalimuthu-01a0a9113">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/persianandro">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://dev.to/sarvarunajvm">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&amp;logo=dev.to&amp;logoColor=white" alt="Dev.to"/>
   </a>
 </p>
 
-<!-- Visitor Count & Stats -->
+<!-- Visitor Count &amp; Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=for-the-badge&color=0e75b6&label=VISITORS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sarvarunajvm?style=for-the-badge&color=blue&label=Followers&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/sarvarunajvm?style=for-the-badge&color=yellow&label=Total+Stars&logo=github" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=sarvarunajvm&amp;style=for-the-badge&amp;color=0e75b6&amp;label=VISITORS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/sarvarunajvm?style=for-the-badge&amp;color=blue&amp;label=Followers&amp;logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/sarvarunajvm?style=for-the-badge&amp;color=yellow&amp;label=Total+Stars&amp;logo=github" alt="Stars"/>
 </p>
 
 </div>
@@ -105,11 +105,11 @@ console.log(saravanan.currentRole.company); // "PayPal"
 
 ---
 
-## Tech stack & skills
+## Tech stack &amp; skills
 
 <div align="center">
 
-### Backend & cloud
+### Backend &amp; cloud
 
 <table>
 <tr>
@@ -170,7 +170,7 @@ console.log(saravanan.currentRole.company); // "PayPal"
 </tr>
 </table>
 
-### Frontend & AI/ML
+### Frontend &amp; AI/ML
 
 <table>
 <tr>
@@ -210,26 +210,26 @@ console.log(saravanan.currentRole.company); // "PayPal"
 ## GitHub statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sarvarunajvm&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sarvarunajvm&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sarvarunajvm&theme=radical&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sarvarunajvm&amp;theme=radical&amp;layout=compact" alt="Top Languages" />
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarvarunajvm&style=flat-square&color=0e75b6&label=Profile%20Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sarvarunajvm&amp;style=flat-square&amp;color=0e75b6&amp;label=Profile%20Views" alt="Profile Views"/>
 </div>
 
 ---
 
-## Contribution heatmap & activity
+## Contribution heatmap &amp; activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvarunajvm&custom_title=📊%20Contribution%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area_color=00b3ff&title_color=ffffff&area=true" alt="Contribution Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvarunajvm&amp;custom_title=📊%20Contribution%20Activity%20Graph&amp;hide_border=true&amp;border_radius=15&amp;bg_color=0d1117&amp;color=00b3ff&amp;line=00b3ff&amp;point=ffffff&amp;area_color=00b3ff&amp;title_color=ffffff&amp;area=true" alt="Contribution Graph" width="98%"/>
 
 <br/><br/>
 
@@ -247,7 +247,7 @@ console.log(saravanan.currentRole.company); // "PayPal"
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sarvarunajvm&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=sarvarunajvm&amp;theme=radical&amp;hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -266,7 +266,7 @@ console.log(saravanan.currentRole.company); // "PayPal"
       <p><strong>Electron · React 19 · FastAPI · Python · PyTorch</strong></p>
       <p>Privacy-first desktop photo manager — inference runs locally. NL search, InsightFace, OCR (Tesseract), duplicate detection over <strong>100k+</strong> photos with sub-2s search. CI/CD on GitHub Actions + Codecov.</p>
       <a href="https://github.com/sarvarunajvm/ideal-goggles">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/>
       </a>
     </td>
     <td width="50%" valign="top">
@@ -274,7 +274,7 @@ console.log(saravanan.currentRole.company); // "PayPal"
       <p><strong>Node.js</strong></p>
       <p>Internal tool for port-forwarding and reverse proxying on restricted corporate networks — used by <strong>60+</strong> engineers.</p>
       <a href="https://github.com/sarvarunajvm/port-advancer">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/>
       </a>
     </td>
   </tr>
@@ -284,7 +284,7 @@ console.log(saravanan.currentRole.company); // "PayPal"
       <p><strong>Java</strong></p>
       <p>General-purpose utilities (String, Number, Date, collections, BLOB, Zip) inspired by Apache Commons IO.</p>
       <a href="https://github.com/sarvarunajvm/utils-commons">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/>
       </a>
     </td>
     <td width="50%" valign="top">
@@ -292,7 +292,7 @@ console.log(saravanan.currentRole.company); // "PayPal"
       <p><strong>Vue · OSS contribution</strong></p>
       <p>Contribution to a Vue component for embedding Gists — <strong>270+</strong> weekly npm downloads.</p>
       <a href="https://github.com/sudhanshu-15/vue-embed-gist/pull/13">
-        <img src="https://img.shields.io/badge/View_PR-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/View_PR-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/>
       </a>
     </td>
   </tr>
@@ -388,7 +388,7 @@ gantt
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/chat.png" width="50"/><br/>
       <b>Discussions</b><br/>
-      <sub>Tech & ideas</sub>
+      <sub>Tech &amp; ideas</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/learning.png" width="50"/><br/>
@@ -404,29 +404,29 @@ gantt
 
 <p>
   <a href="mailto:sarvaruna@outlook.com">
-    <img src="https://img.shields.io/badge/Email-sarvaruna@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-sarvaruna@outlook.com-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/saravanan-kalimuthu-01a0a9113">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   <a href="https://twitter.com/persianandro">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white"/>
   </a>
 </p>
 
 <p>
   <a href="https://dev.to/sarvarunajvm">
-    <img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&amp;logo=dev.to&amp;logoColor=white"/>
   </a>
   <a href="https://sarvarunajvm.github.io/port-react-folio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/>
   </a>
   <a href="https://github.com/sarvarunajvm">
-    <img src="https://img.shields.io/badge/GitHub-sarvarunajvm-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-sarvarunajvm-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
 </p>
 
-**Focus areas:** system design · NFR analysis · distributed systems · event-driven & plugin architectures · phased rollout · payments & platform reliability
+**Focus areas:** system design · NFR analysis · distributed systems · event-driven &amp; plugin architectures · phased rollout · payments &amp; platform reliability
 
 </div>
 
@@ -436,7 +436,7 @@ gantt
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Dev Quote"/>
 
 </div>
 
@@ -446,7 +446,7 @@ gantt
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&amp;hideBorder=true" alt="Jokes Card" />
 
 </div>
 
@@ -474,7 +474,7 @@ gantt
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
 
 **Thanks for visiting.**
 
