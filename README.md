@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=Saravanan%20Kalimuthu&amp;fontSize=70&amp;fontAlignY=35&amp;animation=twinkling&amp;fontColor=ffffff&amp;desc=Senior%20Software%20Engineer%20%7C%209%2B%20Years%20%C2%B7%20Distributed%20Systems%20%26%20Payments&amp;descAlignY=55&amp;descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=Saravanan%20Kalimuthu&amp;fontSize=70&amp;fontAlignY=35&amp;animation=twinkling&amp;fontColor=ffffff&amp;desc=Senior%20Software%20Engineer%20%7C%209%2B%20Years%20%C2%B7%20Distributed%20Systems%20and%20Payments&amp;descAlignY=55&amp;descSize=20" />
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=32&amp;duration=2500&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=900&amp;height=80&amp;lines=Distributed+Systems+%26+Payments;Architecture-Led+Delivery;Privacy-First+Open+Source;Invoicing+%26+Platform+Reliability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=32&amp;duration=2500&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=900&amp;height=80&amp;lines=Distributed+Systems+and+Payments;Architecture-Led+Delivery;Privacy-First+Open+Source;Invoicing+and+Platform+Reliability" alt="Typing SVG" />
 </a>
 
 <br/>
